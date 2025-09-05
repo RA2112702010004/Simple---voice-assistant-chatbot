@@ -1,0 +1,30 @@
+These are the simple models which are required for this voicebot
+SPEECH RECOGNITION
+-pip install SpeechRecognition - pip install SpeechRecognition
+Converts spoken language (voice input) into text.
+
+Text to speech
+-pip install pyttsx3
+Converts text into speech (the bot talks back)
+
+Pywhatkit
+-pip install pywhatkit
+Helps perform tasks like playing YouTube videos, sending WhatsApp messages, searching Google, etc.
+
+Datetime (built-in) 
+Works with date and time.
+
+-pip install wikipedia
+Fetches information from Wikipedia.
+
+-pip install pyjokes
+Tells programming-related jokes. based on your prsferences
+
+-webbrowser
+Opens web pages in the default browser.
+
+-OS Module
+Interacts with operating system commands.
+
+-pip install requests
+Handles HTTP requests (API calls, getting data from internet).
